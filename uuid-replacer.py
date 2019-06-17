@@ -26,7 +26,7 @@ def generate_fake(name, number):
         elif number < 1000:
             num_str = f'0{number}'
 
-    return f'{name}-{num_str}-{str(uuid4())[13:]}'
+    return f'{name}-{num_str}-{str(uuid4())[14:]}'
 
 
 if __name__ == '__main__':
