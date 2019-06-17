@@ -8,7 +8,7 @@ Replace `x` with an integer to get that many UUIDs.
 
 # uuid-replacer.py
 ```
-python uuid-replacer.py DescName x y
+python3 uuid-replacer.py DescName x y
 ```
 Replace `DescName` with an exactly eight character string.
 Replace `x` with starting fake UUID number.
