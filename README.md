@@ -13,3 +13,5 @@ python uuid-replacer.py DescName x y
 Replace `DescName` with an exactly eight character string.
 Replace `x` with starting fake UUID number.
 Replace `y` with how many fake UUIDs you want.
+
+Requires Python 3.6+
